@@ -68,10 +68,3 @@ Le **S&P 500** est un indice regroupant les 500 plus grandes entreprises cotées
 ## 📝 Auteurs
 
 Développé par AKDI Oussama, étudiant en Data Science et Machine Learning.
-
----
-
-### **Remarque :**
-Pour ajouter ce fichier comme README dans votre dépôt GitHub, nommez-le `README.md`. Il sera automatiquement affiché sur la page principale de votre dépôt.
-
-Si vous avez besoin de modifications ou d’ajouts, faites-le-moi savoir ! 😊
