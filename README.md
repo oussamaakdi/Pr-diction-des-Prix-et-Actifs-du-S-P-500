@@ -3,6 +3,8 @@
 Ce projet explore l'utilisation de diverses techniques de Machine Learning pour prédire les prix de clôture logarithmiques (`Log_Close`) de l'indice **S&P 500**. L'objectif est de fournir des outils permettant d’orienter des stratégies d’investissement sur cet indice de référence, en s’appuyant sur des données financières et économiques enrichies.
 
 ---
+![download](https://github.com/user-attachments/assets/3ced6789-a369-4720-a2e3-737e22ea3455)
+
 
 ## 🔍 Contexte
 
