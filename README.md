@@ -88,5 +88,3 @@
     <p>Développé par [Votre Nom], étudiant en Data Science et Machine Learning.</p>
 </body>
 </html>
-
-
